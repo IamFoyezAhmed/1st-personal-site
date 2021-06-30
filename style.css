@@ -1,6 +1,9 @@
+
 body{ margin: 0%;
     font-family: 'Poppins', sans-serif;
     background-color: rgb(219, 209, 209);
+    height: auto;
+  
 }
 h1{
     font-size: 50px;
@@ -67,7 +70,9 @@ section{
 p{
     color: dimgray;
 }
-footer {
-    float: right;
+
+footer p { padding: 20em;
+    text-align: center;
    }
+   
    
